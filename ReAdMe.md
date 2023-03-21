@@ -1,4 +1,4 @@
-# Testing
+# Testing Github's Headings
 
 Readme file with different capitalization
 
