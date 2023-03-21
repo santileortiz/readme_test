@@ -5,6 +5,6 @@ Readme file with different capitalization
 # 多分
 Japanese title
 
-# квалификация
+# КвАлиФикация
 
-Russian title
+Russian title with mixed capitals
