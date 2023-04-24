@@ -14,6 +14,10 @@ Test - characters
 
 Test a duplicate heading
 
+# HTML escaping &lt;br&gt; linebreak tags
+
+Test HTML escaped < and > characters that would add a linebreak
+
 # Español con tildes (ÁáÉéÍíÓóÚú)
 
 Spanish title with accented characters
