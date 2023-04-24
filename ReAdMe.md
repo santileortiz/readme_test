@@ -2,6 +2,8 @@
 
 Readme file with different capitalization
 
+# ASCII characters !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+
 # Español con tildes (ÁáÉéÍíÓóÚú)
 
 Spanish title with accented characters
