@@ -6,7 +6,7 @@ Readme file with different capitalization
 
 Single title with all ASCII characters
 
-# Spaces)*+,and-./signs+are treated+equally?
+# Spaces-and./signs+are treated+equally?
 
 Test plus characters
 
