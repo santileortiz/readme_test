@@ -6,9 +6,13 @@ Readme file with different capitalization
 
 Single title with all ASCII characters
 
-# Spaces-and./signs+are treated+equally?
+# Spaces-and-dashes-are-indistiguishable
 
-Test plus characters
+Test - characters
+
+# Spaces and dashes are indistiguishable
+
+Test a duplicate heading
 
 # Español con tildes (ÁáÉéÍíÓóÚú)
 
