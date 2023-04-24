@@ -14,7 +14,7 @@ Test - characters
 
 Test a duplicate heading
 
-# HTML escaping &lt;br&gt; linebreak tags
+# HTML escaping &lt;br&gt;linebreak tags
 
 Test HTML escaped < and > characters that would add a linebreak
 
